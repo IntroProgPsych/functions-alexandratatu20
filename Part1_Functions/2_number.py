@@ -10,3 +10,9 @@
 # Output: 25
 
 # Write your code here:
+
+nr = int(input("write a nr: "))
+def square():
+    print(nr*nr)
+square()
+
